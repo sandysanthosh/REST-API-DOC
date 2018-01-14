@@ -1,0 +1,26 @@
+@path("/books")
+public class BookEndPoint
+{
+@GET
+@Produces({"application/xml"})  //http://www.book.com/books/1234
+@Path("/{id}")
+public book findbyId(@PathParam("id") Long id){......}
+
+@DELETE
+@Path("/{id"})        //http://www.book.com/books/
+public void deleteById(@PathParam("id") Long id){...}
+c
+@POST
+@Consumers({"application/xml"})     //http://www.book.com/books/
+public Response create(Book book){....}
+
+}
+
+
+
+
+
+
+{
+
+@procudes({)
