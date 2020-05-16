@@ -1,4 +1,4 @@
-# rest-apii
+# REST API DOCUMENTATION
 
 HTTPS Methods:
 
