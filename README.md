@@ -2,6 +2,12 @@
 
 ### Representational state transfer 
 
+REST != HTTP
+
+Resources are decoupled from their representation variety of formats 
+
+       - HTML, XML, plain text, PDF, JPEG, JSON
+
 HTTPS Methods:
 
         GET 
