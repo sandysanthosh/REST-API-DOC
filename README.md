@@ -1,4 +1,6 @@
-# REST API DOCUMENTATION
+## REST API DOCUMENTATION
+
+### Representational state transfer 
 
 HTTPS Methods:
 
