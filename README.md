@@ -42,4 +42,41 @@ To Test Specific user:
 https://api.github.com/users/sandysanthosh
 
 
+### Fake Rest API:
+
+Resources:
+
+https://jsonplaceholder.typicode.com/
+
+                            /posts	       100 posts
+                            /comments	500 comments
+                            /albums	100 albums
+                            /photos	5000 photos
+                            /todos  	200 todos
+                            /users        10 Users
+                            
+Routers:
+
+https://jsonplaceholder.typicode.com/
+
+                            GET	/posts
+                            GET	/posts/1
+                            GET	/posts/1/comments
+                            GET	/comments?postId=1
+                            GET	/posts?userId=1
+                            POST	/posts
+                            PUT	/posts/1
+                            PATCH	/posts/1
+                            DELETE	/posts/1
+                            
+  TO LIMIT:
+  
+  https://jsonplaceholder.typicode.com/todos?_limit=5
+  
+  
+ 
+ #### Follow US</t><a href="http://starwalt.in/Blogs/index.html">Starwalt</a>
+ 
+ 
+
 
