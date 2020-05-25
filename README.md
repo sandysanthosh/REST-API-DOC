@@ -73,6 +73,13 @@ https://jsonplaceholder.typicode.com/
   
   https://jsonplaceholder.typicode.com/todos?_limit=5
   
+  ### Download Axios folder and run index.html:
+  
+  ![axios](https://user-images.githubusercontent.com/11579239/82775884-a9bfe600-9e66-11ea-9364-daef55b3ac91.JPG)
+
+  
+  
+  
   
  
  #### Follow US</t><a href="http://starwalt.in/Blogs/index.html">Starwalt</a>
