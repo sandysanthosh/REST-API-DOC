@@ -14,7 +14,8 @@ HTTPS Methods:
         PUT
         POST 
         DELETE
-        
+        PATCH
+
 HTTPS STATUS CODE:
 
         200 OK
