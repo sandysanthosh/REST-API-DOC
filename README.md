@@ -79,7 +79,9 @@ https://jsonplaceholder.typicode.com/
   ![axios](https://user-images.githubusercontent.com/11579239/82775884-a9bfe600-9e66-11ea-9364-daef55b3ac91.JPG)
 
   
-  
+@Restcontroller 
+@ResponseBody
+@RequestMapping
   
   
  
