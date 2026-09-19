@@ -16,16 +16,19 @@ HTTPS Methods:
         DELETE
         PATCH
 
-HTTPS STATUS CODE:
+HTTP status codes:
 
-        200 OK
-        201 OK created
-        301 Moved t new url
-        304 Not modified
-        400 Bad reuquest
-        401 Unauthorized
-        404 Not found
-        500 Internal server error
+        200 OK — successful read or update response
+        201 Created — a new resource was created
+        204 No Content — successful request with no response body
+        301 Moved Permanently — resource has a new permanent URL
+        304 Not Modified — cached response is still valid
+        400 Bad Request — malformed or invalid request
+        401 Unauthorized — authentication is missing or invalid
+        403 Forbidden — authenticated caller lacks permission
+        404 Not Found — requested resource does not exist
+        409 Conflict — request conflicts with current resource state
+        500 Internal Server Error — unexpected server failure
 
 Learn REST API:
 
