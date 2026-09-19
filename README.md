@@ -90,3 +90,7 @@ https://jsonplaceholder.typicode.com/
  
 
 
+
+### Production API error handling
+
+For a practical, consistent error format, status-code guidance, and Spring Boot implementation notes, see [REST API Error Response Standard](docs/error-response-standard.md).
